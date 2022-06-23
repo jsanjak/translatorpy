@@ -1,0 +1,994 @@
+{
+  "nodes": [
+    {
+      "id": "NCBIGene:1956",
+      "name": "EGFR",
+      "attributes": [],
+      "category": [
+        "biolink:Gene"
+      ]
+    },
+    {
+      "id": "CHEMBL.COMPOUND:CHEMBL810",
+      "name": "TEMOZOLOMIDE",
+      "attributes": [],
+      "category": [
+        "biolink:Drug"
+      ]
+    },
+    {
+      "id": "CHEMBL.COMPOUND:CHEMBL514",
+      "name": "CCNU",
+      "attributes": [],
+      "category": [
+        "biolink:Drug"
+      ]
+    },
+    {
+      "id": "CHEMBL.COMPOUND:CHEMBL88",
+      "name": "CYCLOPHOSPHAMIDE",
+      "attributes": [],
+      "category": [
+        "biolink:Drug"
+      ]
+    },
+    {
+      "id": "CHEMBL.COMPOUND:CHEMBL428647",
+      "name": "TAXOL",
+      "attributes": [],
+      "category": [
+        "biolink:Drug"
+      ]
+    },
+    {
+      "id": "CHEMBL.COMPOUND:CHEMBL53463",
+      "name": "DOXORUBICIN",
+      "attributes": [],
+      "category": [
+        "biolink:Drug"
+      ]
+    },
+    {
+      "id": "CHEMBL.COMPOUND:CHEMBL888",
+      "name": "GEMZAR",
+      "attributes": [],
+      "category": [
+        "biolink:Drug"
+      ]
+    },
+    {
+      "id": "CHEMBL.COMPOUND:CHEMBL1351",
+      "name": "CARBOPLATIN",
+      "attributes": [],
+      "category": [
+        "biolink:Drug"
+      ]
+    },
+    {
+      "id": "CHEMBL.COMPOUND:CHEMBL1201583",
+      "name": "BEVACIZUMAB",
+      "attributes": [],
+      "category": [
+        "biolink:Drug"
+      ]
+    },
+    {
+      "id": "CHEMBL.COMPOUND:CHEMBL384467",
+      "name": "DEXAMETHASONE",
+      "attributes": [],
+      "category": [
+        "biolink:Drug"
+      ]
+    },
+    {
+      "id": "CHEMBL.COMPOUND:CHEMBL513",
+      "name": "BCNU",
+      "attributes": [],
+      "category": [
+        "biolink:Drug"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:has_real_world_evidence_of_association_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL810",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": -0.1925814004482163,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e1",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:has_real_world_evidence_of_association_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL514",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.19189381315495296,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e2",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:has_real_world_evidence_of_association_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL88",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.18370065987721765,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e3",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:has_real_world_evidence_of_association_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL428647",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.172435239401815,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e4",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:has_real_world_evidence_of_association_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL53463",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.15599844737402485,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e5",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:has_real_world_evidence_of_association_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL888",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.12181924535104742,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e6",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:has_real_world_evidence_of_association_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL1351",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.10535616590974473,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e7",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:has_real_world_evidence_of_association_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL1201583",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.09992322838857355,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e8",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:has_real_world_evidence_of_association_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL384467",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": -0.08922544388845516,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e9",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:has_real_world_evidence_of_association_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL513",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": -0.08177827005791763,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e10",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:interacts_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL810",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": -0.1925814004482163,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e11",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:interacts_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL514",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.19189381315495296,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e12",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:interacts_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL88",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.18370065987721765,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e13",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:interacts_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL428647",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.172435239401815,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e14",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:interacts_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL53463",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.15599844737402485,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e15",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:interacts_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL888",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.12181924535104742,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e16",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:interacts_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL1351",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.10535616590974473,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e17",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:interacts_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL1201583",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": 0.09992322838857355,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e18",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:interacts_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL384467",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": -0.08922544388845516,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    },
+    {
+      "id": "e19",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:interacts_with",
+      "object": "CHEMBL.COMPOUND:CHEMBL513",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_type_id": "Contribution",
+          "original_attribute_name": null,
+          "value": -0.08177827005791763,
+          "value_type_id": "biolink:has_evidence",
+          "attribute_source": null,
+          "value_url": null,
+          "description": "Inference is derived from cancer data. Contribution reflects sensitivity of nodes to patient survival time. Contribution values closer to 1 are correlated with longer survival time and contribution values closer to -1 are correlated with shorter survival time."
+        },
+        {
+          "attribute_type_id": "biolink:primary_knowledge_source",
+          "original_attribute_name": null,
+          "value": "infores:connections-hypothesis",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "http://chp.thayer.dartmouth.edu",
+          "description": "The Connections Hypothesis Provider from NCATS Translator."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:gdc",
+          "value_url": "https://portal.gdc.cancer.gov/",
+          "description": "The Cancer Genome Atlas provided by the GDC Data Portal."
+        },
+        {
+          "attribute_type_id": "biolink:supporting_data_source",
+          "original_attribute_name": null,
+          "value": "infores:tcga",
+          "value_type_id": "biolink:InformationResource",
+          "attribute_source": "infores:connections-hypothesis",
+          "value_url": "https://di2ag.github.io/chp/chp_documentation#chp-single-hop-contribution-analysis",
+          "description": "Documents how Connections Hypothesis Provider builds ranked contribution values over tcga data."
+        }
+      ]
+    }
+  ]
+}

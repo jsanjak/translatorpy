@@ -1,0 +1,3019 @@
+{
+  "nodes": [
+    {
+      "id": "UniProtKB:Q12774",
+      "name": "ARHGEF5 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q14344",
+      "name": "GNA13 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q7Z6J4",
+      "name": "FGD2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "REACTO:REACTO_R-HSA-179837",
+      "name": "EGFR",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9Y4F1",
+      "name": "FARP1 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q14185",
+      "name": "DOCK1 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q3KR16",
+      "name": "PLEKHG6 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9H8V3",
+      "name": "ECT2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q12802",
+      "name": "AKAP13 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:A5YM69",
+      "name": "ARHGEF35 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:P11274",
+      "name": "BCR Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q92608",
+      "name": "DOCK2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q8TER5",
+      "name": "ARHGEF40 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q5JSL3",
+      "name": "DOCK11 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q7Z628",
+      "name": "NET1 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "NCBIGene:1956",
+      "name": null,
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:Gene",
+        "biolink:NamedThing"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9H7P9",
+      "name": "PLEKHG2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:O94989",
+      "name": "ARHGEF15 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q96Q42",
+      "name": "ALS2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "REACTO:REACTO_R-HSA-182923",
+      "name": "p-Y371-CBL",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q58EX7",
+      "name": "PLEKHG4 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q15052",
+      "name": "ARHGEF6 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q8IW93",
+      "name": "ARHGEF19 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q96DR7",
+      "name": "ARHGEF26 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:O43307",
+      "name": "ARHGEF9 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9H7D0",
+      "name": "DOCK5 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q5JSP0",
+      "name": "FGD3 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9NXL2",
+      "name": "ARHGEF38 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q8IVF5",
+      "name": "TIAM2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q70Z35",
+      "name": "PREX2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q12979",
+      "name": "ABR Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:O94827",
+      "name": "PLEKHG5 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:O94887",
+      "name": "FARP2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9BZ29",
+      "name": "DOCK9 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q8N5V2",
+      "name": "NGEF Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q8TCU6",
+      "name": "PREX1 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:O75962",
+      "name": "TRIO Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:A8MVX0",
+      "name": "ARHGEF33 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q6ZNL6",
+      "name": "FGD5 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q96M96",
+      "name": "FGD4 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q8NF50",
+      "name": "DOCK8 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q5VST9",
+      "name": "OBSCN Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:A1IGU5",
+      "name": "ARHGEF37 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q07890",
+      "name": "SOS2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q96HP0",
+      "name": "DOCK6 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q8N1I0",
+      "name": "DOCK4 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q96N67",
+      "name": "DOCK7 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:O15085",
+      "name": "ARHGEF11 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:O15068",
+      "name": "MCF2L Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "REACTO:REACTO_R-HSA-5490317",
+      "name": "PTPN3",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:P52735",
+      "name": "VAV2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "REACTO:REACTO_R-HSA-64847",
+      "name": "SOS1",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9H4E7",
+      "name": "DEF6 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q15811",
+      "name": "ITSN1 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q5VV41",
+      "name": "ARHGEF16 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:P15498",
+      "name": "VAV1 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:P05556",
+      "name": "ITGB1 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9NR80",
+      "name": "ARHGEF4 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:P98174",
+      "name": "FGD1 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9UKW4",
+      "name": "VAV3 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9NR81",
+      "name": "ARHGEF3 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9HCE6",
+      "name": "ARHGEF10L Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q13009",
+      "name": "TIAM1 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q8IZD9",
+      "name": "DOCK3 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q14155",
+      "name": "ARHGEF7 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q86VW2",
+      "name": "ARHGEF25 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q6ZSZ5",
+      "name": "ARHGEF18 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:O14827",
+      "name": "RASGRF2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9UH65",
+      "name": "SWAP70 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:O60229",
+      "name": "KALRN Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:P10911",
+      "name": "MCF2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9ULL1",
+      "name": "PLEKHG1 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q8N4T4",
+      "name": "ARHGEF39 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q96BY6",
+      "name": "DOCK10 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:A1L390",
+      "name": "PLEKHG3 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q92974",
+      "name": "ARHGEF2 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:O15013",
+      "name": "ARHGEF10 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    },
+    {
+      "id": "UniProtKB:Q9NZN5",
+      "name": "ARHGEF12 Hsap",
+      "attributes": null,
+      "category": [
+        "biolink:BiologicalEntity",
+        "biolink:ChemicalEntity",
+        "biolink:NamedThing",
+        "biolink:Polypeptide",
+        "biolink:Protein"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "7b82f81e72717d05462bcb97a589209618dc53671d796cd2d1849f8dd4b51928",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:O75962",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "4c308646fc4e32978726a2078e433a68174d16725e3d39ee6e89ed431ef40d70",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:P15498",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "5b1847c39e938e6ab905f82e4b7d94c30bc30c79108bce477f17ad988e762785",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:A8MVX0",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "24ccf0b87cfadd94135e0c8736476904f17467a8c3d4ad18ef25af2789794736",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:O15013",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "b71ad525f599259111432ed78980e3555c09780d30f5757611707456ac213a50",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q5JSL3",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "61bd2de86d23b67d1b40115414730e0fea939cd0c1be30b082aeb2ac05d5e461",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:P98174",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "34e6fbb8e5b8cf32e3ed8e80bfa4a2a05dd34d41bf41ca4835a174c3a754b9e7",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:A1IGU5",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "4d1c7a4e6c768647e50990f3ce64d29d7fda04e53075324d7bbc24cc73bf5162",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9UKW4",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-179812"
+        }
+      ]
+    },
+    {
+      "id": "97c4fd60133f3e430856fd07029ede6e470191e479d62f42a0f59a29a26ef32f",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q15811",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "70f2e7482403599e99d4853758197d9b873fbd98ab3f1be5984f1614440e6025",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q8N1I0",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "5bc6a5cdb4bebe9b762bccb9490d2ce83120436e7b04d4ec36b126521a01c779",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q8N5V2",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "013dae2eaadd670db73924e1ea995c490d09cacabaddebae7b4aa13862f45800",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "REACTO:REACTO_R-HSA-182923",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-182971"
+        }
+      ]
+    },
+    {
+      "id": "47fad70d6f7af18ac96fef83e6e1a46e1acdf725d6e6d3564e65193ec9d85957",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q5JSP0",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "16ba2b717dde940e09ab955e4377e6a91510f72a6a88cb53e3c706f221b9fef5",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:A1L390",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "576514d0db4c9202b0dce63c73447a901b5bbf7a05b3b868198279d29317d673",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:O94989",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "e240c88f49fa7a41958f1f6f65c2a47528ebce2eefb031c7f8fc94d1b4ea927c",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q8IZD9",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "b98a758d1d675a7e8f9784f15f90930913d7ebf857396d2b45bb92a413a3e358",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q8IVF5",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "fedbf759074419a903eb39246b3515c7edcb48eee629d5404c383a6ceb86b2bb",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9H7P9",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "3c24368f42d976a8e43f170c794a623c8d00f44ff291bdc7a1d5843dce51d28b",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q7Z628",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "55a96a98ae862fbef24491807044fa63232b278cadf106d1a8b8da2d6b85703a",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9NR81",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "99c4caebd34a7c561d7a53cdc019278827d934a95d2a7a9f6a14773912221639",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:O60229",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "594a5d359c935c282544fd0e683aaea75118f9deca37b27b434f0b6a738f5d28",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9NZN5",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "685cde73e7f1c45ac5dbe954970b9b58679ac592f6d3f0773d055bcdd0f8d65e",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9H7D0",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "1c12e6d90f8d2ef692a01f0ac87e5128a64dbdfdc16c406d08e1ff12d2bbee99",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q13009",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "a0e376c7b088e0c6325a452978d486d90a7b9a4352b71876260c1e440b490429",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q8N4T4",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "5e74bac60b8f2b5f85edf1e9461d97499eefd428e9637e8e0a948ec740050bea",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:O94827",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "28559e542a4460accdfde7942dcb7e44e37bc363b68f6b5fc9854cf9ed5d3063",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "REACTO:REACTO_R-HSA-179837",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-182971"
+        }
+      ]
+    },
+    {
+      "id": "b4304cd38cbc83a0dcf540b1253352cf251f0a73d74e89e52e07a0d2745ab654",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q92608",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "37f14bae803a5e49c0313f2d889cd8e156c2409812b2cd4993961e851b76f943",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q96BY6",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "1ec54ea372187de07e4dd34879f04f9eb875d81d3be9dfc8f40f1831b1a5bbf2",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9BZ29",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "2f6b94dcef5a6d2948fd225e8d3b873949db5ae9ec7d05b54d42894d84842732",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q8TCU6",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "f6d53f9ee91eefe8fc0e39d4b80058c930ad7e1c139baa35c5cd88b251910a28",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q14185",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "9cdb606e55c879dc57b931495df6e372cbe6955eae3be83b15281632693e0d3d",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q12802",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "04c276ce41123fe1c81617e71c0539fbb5c44a7656c927131ebd021d9026729c",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q15052",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "503c082774dae2b966337380cfbdf8261f92db68b77b04d7a46a39507dea22c2",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q12979",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "1cf8179b681cfbee5a2377414f5a8089654c5a97142b6fa6d6950626d3f0dea7",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q5VV41",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "9842cd79f33ca5768aa474c726b13b8c34cf4fe8db670307d4243b9e07cd286d",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q14155",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "e2a54a347742aac78553e63c5b7947b38865ff455f2177110a05325ea60541d4",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "REACTO:REACTO_R-HSA-64847",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-179812"
+        }
+      ]
+    },
+    {
+      "id": "b27b73e2aa2344cefcebd3849f29073681901754e0765effa3957d11cf603bbc",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9Y4F1",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "1c8c78d6b1e6c32a703d7e5dd8935c02bc9bcde9e3a338785a5042be94a77c1b",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q07890",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "cd87ecd071b20288416e82b9b1b165b4b065e84a0672a5a91781add820a092f6",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "REACTO:REACTO_R-HSA-5490317",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-182971"
+        }
+      ]
+    },
+    {
+      "id": "f017ddad069ca94319a28bae3799fd4354948f39d4fe5c993be8f66dadeeb588",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:P10911",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "7c9027aecabfa5545f331babf2a6942aec4841ac34970ddee644fc3546c99d8d",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9UH65",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "ea9626c9157d38bd9a14812746989ed0f940db00fda4818623d4532a70f4bbae",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q5VST9",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "c10703dfc36aca6ed6244eaf10c7ea3eb6b92e8a845bb0c71ebf2818bec812a9",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q12774",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "bcf4c8cbbe169d2ffa07f6e802550185a298b5d7ea450083111e7b8930008221",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:P52735",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "e45688bd32fd84b1659e9a54c0993e9cc23bc2792955e3142ed6a53b61dd1c61",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:P11274",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-179812"
+        }
+      ]
+    },
+    {
+      "id": "68a9f721f19d4eeb05c260ec0956fa45b0769e2c047182a3a50ea6cf01d0f3ec",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q7Z6J4",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "107ee74a15cd4a0442fd9390ca23aebfb5eb092a2a5c3e02bf69926a1024e912",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:P05556",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-182971"
+        }
+      ]
+    },
+    {
+      "id": "416bea3a42b7fd2ae3006f7614c9873db2425f7dc137019de2db558e5fa95cdf",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9H8V3",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "54f0e22a521469e92e2eb02951cafbaf8c1b586465316681adaa4515b8a65f82",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q70Z35",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "52780f7e7ba05aead1765b9795ba4445e19948b3983c735eaaf1b2f65c25023a",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q96N67",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "675fc4346943fdc4defce68425724cc663a36e4a2038dc484e1eef1b0f1b3e68",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q96HP0",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "8e5e2a43fb79e5e2037861705e572e4f45f3caf2d78a811567d4f872a12e724f",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q86VW2",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "083f505f8b55d90aabe8b72edba02e3ea7509da3b7a28d9b32167a6af8c6640d",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q8NF50",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "8c7d2036f2f8ae4ef4feb8f7a0e0ae572f65a4d8208944d43705c8ca9c132c9f",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9NXL2",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "976d5d6c354d5f259dfe810e4895c0fce30c5cc2b0f24a2cf11b3e7d00fbaa61",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:A5YM69",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "6b5172b829886ee82f6237da75f35e82baf7fa054f09c7efc08fdee5c0b184ac",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9HCE6",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "34588bb3baec683e0237b3b8e9737955fb8db0e180bfe9745bca82289db9434e",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q58EX7",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "83bdaf8535e36f2ae2b7f8a0c9c97473a723090f9ddfed6bd90d13d6fd71bbed",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:O43307",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "2530e097360a8c4e5fcb17939e42fd7aa9b62bb9329f40b3b3dc7a69f08ba9d0",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:O14827",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "c848130b90eb549ff162419ba1874f39c1d53f0f0c47531ab5a56c8ece50a021",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q14344",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "c4d012f31b60b8062dca9a6fb1dff155d34227b7f70a361cbe7ba00f9bbe2515",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9H4E7",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "c38e6efa18481f6c86659a877629d9fc1731172a7b743c53e6a70e33a2eb10a3",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q8IW93",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "9105570efd6250f4590019bfead0218a96288a0c2f9233a3a8b9e32ed2e1feef",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:O15085",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "4134c6f3a5005ab33a26a57f216cb4841ef6711dd01cc28a1f01114f694501a9",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q92974",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "4f3937c64fc66767cf4ffbef5746e14c8f884860e3e2100195c3062908f0fe5a",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9NR80",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "3a8c1c07a5bb80d186f7e0707aed2a7006f1e0c6ff94ee7cff19c1fac117c35c",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:O15068",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "d054852d2ca6dc8b098c0c770b0bcf01ce1d957036046476830d394e58986a29",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q9ULL1",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "7363ad1cea1068b7f155e7b72a339194c444875315bb0d239edd6c7786cb247f",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:O94887",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "4472601f522652eaf3007347e2f3dab1697fe28ce7d2d5890634e4da4b386a05",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q96M96",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "c4e8f4f3dd06c53af5e9d1e6d8d59498ff7080c7b1fbf3879bbb758ab19469ae",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q6ZNL6",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "b489a8635c2ac97ed16abafbecc8008e19480093c0ffaf7aea355a63e2c7d7a6",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q96DR7",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "b45fe882a747b5205c36778de2f6adb7f0fb9e97060710c660c323589b95e0c5",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q96Q42",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "b2c0e92bd2626a431c31757f7d5875c5309f9d5592a17b00f0f17c234a9d5393",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q8TER5",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "887b532579df2b371c61588adcf2872ea50e4dc771dfdacc63b8688ea8a88fae",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q3KR16",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    },
+    {
+      "id": "3d2f861a71ff91c4deb0f058e8608923181365b9bfedf37927e4eaaf343725af",
+      "subject": "NCBIGene:1956",
+      "predicate": "biolink:affects_activity_of",
+      "object": "UniProtKB:Q6ZSZ5",
+      "relation": null,
+      "attributes": [
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:aggregator_knowledge_source",
+          "value": [
+            "infores:cam-kp"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "https://cam-kp-api.renci.org"
+        },
+        {
+          "attribute_source": "infores:cam-kp",
+          "attribute_type_id": "biolink:original_knowledge_source",
+          "value": [
+            "infores:go-cam"
+          ],
+          "value_type_id": "biolink:InformationResource",
+          "value_url": "http://model.geneontology.org/R-HSA-180336"
+        }
+      ]
+    }
+  ]
+}
